@@ -6,6 +6,8 @@
 
 <?php
 echo "Hello World!";
+echo "My car is 4x4";
+echo "My house is color blue";
 ?> 
 
 </body>
